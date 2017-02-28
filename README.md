@@ -6,7 +6,7 @@ This code implements a call center Bot that offers :
 
 ## Reimagining customer service and support with AI : Architecture ##
 
-![Architecture](https://github.com/stephgou/callcenterbot/raw/master/Architecture.png)
+![Architecture](https://github.com/stephgou/callcenterbot/raw/master/Architecture.PNG)
 
 ## Reimagining customer service and support with AI : Dialogs ##
 
