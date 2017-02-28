@@ -1,0 +1,15 @@
+﻿{
+  "documents": [
+    {
+      "language": "fr",
+      "id": "1",
+      "text": "J'ai un problème"
+    },
+    {
+      "language": "fr",
+      "id": "2",
+      "text": "Je n'arrive pas à retirer"
+    }
+  ]
+}
+

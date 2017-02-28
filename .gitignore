@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CallCenterBot/bin
+/CallCenterBot/obj
+/EV.Cognitives.Services/bin/Debug
+/EV.Cognitives.Services/obj
+/EV.Cognitives.Services.Tests/bin/Debug
+/EV.Cognitives.Services.Tests/obj
+/packages
