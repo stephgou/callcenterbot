@@ -1,4 +1,4 @@
-# callcenterbot
+# Call center bot
 This code implements a call center Bot that offers :
 - A cards dialog navigation 
 - A Luis integration for intention detection
